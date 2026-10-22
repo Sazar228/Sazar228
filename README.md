@@ -80,8 +80,7 @@
 ## 📫 Связаться со мной
 
 <p align="center">
-  <a href="https://t.me/[ваш_ник]"><img src="https://img.shields.io/badge/Telegram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:[ваша_почта]"><img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/Sazar228"><img src="https://img.shields.io/badge/Telegram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" width="100%" />
