@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Sazar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%2F%20Fullstack%20разработчик&descAlignY=58&descSize=20" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=Привет!+Я+Sazar+👋;Делаю+интерфейсы+на+Vue+и+Tailwind;Пишу+API+на+Node.js+и+Express;Учусь+и+расту+каждый+день+💜" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧰 Мой стек
